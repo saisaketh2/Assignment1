@@ -6,8 +6,8 @@ namespace Assignment1_1
     {
         static void Main(string[] args)
         {
-            //int n = 5;
-            //PrintPattern(5);
+            int n = 5;
+            PrintPattern(5);
 
             //int n2 = 6;            
             //PrintSeries(n2);
