@@ -12,9 +12,9 @@ namespace Assignment1_1
             //int n2 = 6;            
             //PrintSeries(n2);
 
-            string s = "09:15:35PM";
-            string t = UsfTime(s);
-            Console.WriteLine(t);
+            //string s = "09:15:35PM";
+            //string t = UsfTime(s);
+            //Console.WriteLine(t);
 
 
             //int n3 = 110;
